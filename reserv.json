@@ -1,0 +1,129 @@
+
+
+{
+  "status": "success",
+  "data": {
+    "operations": [
+      {
+        "operationName": "PayPal",
+        "authDate": "2019-07-22T16:18:46+03:00",
+        "authAmount": {
+          "value": "300.00",
+          "currency": "USD"
+        },
+        "totalAmount": {
+          "value": "-300.00",
+          "currency": "USD"
+        }
+      },
+      {
+        "operationName": "ApplePay",
+        "authDate": "2020-07-21T15:20:48+03:00",
+        "authAmount": {
+          "value": "1200.00",
+          "currency": "USD"
+        },
+        "totalAmount": {
+          "value": "10.00",
+          "currency": "USD"
+        }
+      },
+      {
+        "operationName": "GooglePay",
+        "authDate": "2019-07-21T13:57:12+03:00",
+        "authAmount": {
+          "value": "20.00",
+          "currency": "USD"
+        },
+        "totalAmount": {
+          "value": "900.00",
+          "currency": "USD"
+        }
+      },
+      {
+        "operationName": "Yandex Cash",
+        "authDate": "2020-07-21T14:12:13+03:00",
+        "authAmount": {
+          "value": "1233.00",
+          "currency": "USD"
+        },
+        "totalAmount": {
+          "value": "88.00",
+          "currency": "USD"
+        }
+      },
+      {
+        "operationName": "Webmoney",
+        "authDate": "2020-05-22T16:18:46+03:00",
+        "authAmount": {
+          "value": "549.00",
+          "currency": "USD"
+        },
+        "totalAmount": {
+          "value": "471.00",
+          "currency": "USD"
+        }
+      },
+      {
+        "operationName": "WebpackPay",
+        "authDate": "2021-06-22T16:18:46+03:00",
+        "authAmount": {
+          "value": "300.00",
+          "currency": "USD"
+        },
+        "totalAmount": {
+          "value": "-300.00",
+          "currency": "USD"
+        }
+      },
+      {
+        "operationName": "Open bill operations",
+        "authDate": "2020-06-27T16:18:46+03:00",
+        "authAmount": {
+          "value": "210.00",
+          "currency": "USD"
+        },
+        "totalAmount": {
+          "value": "-199990.00",
+          "currency": "USD"
+        }
+      },
+      {
+        "operationName": "Close bill operation",
+        "authDate": "2021-06-15T16:18:46+03:00",
+        "authAmount": {
+          "value": "1482.00",
+          "currency": "USD"
+        },
+        "totalAmount": {
+          "value": "-482.00",
+          "currency": "USD"
+        }
+      },
+      {
+        "operationName": "Training",
+        "authDate": "2020-06-10T16:18:46+03:00",
+        "authAmount": {
+          "value": "2233.00",
+          "currency": "USD"
+        },
+        "totalAmount": {
+          "value": "-522.00",
+          "currency": "USD"
+        }
+      },
+      {
+        "operationName": "Trading",
+        "authDate": "2019-11-11T16:18:46+03:00",
+        "authAmount": {
+          "value": "12300.00",
+          "currency": "USD"
+        },
+        "totalAmount": {
+          "value": "-44300.00",
+          "currency": "USD"
+        }
+      }
+    ]
+  }
+}
